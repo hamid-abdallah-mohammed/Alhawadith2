@@ -26,7 +26,7 @@
     line-height: 1.6rem;
     letter-spacing: 1px;
     font-style: italic;
-
+    margin: 50px;
    
 }
 .container{
@@ -38,6 +38,10 @@
 
 }
 
+.office__header{
+    color: #555;
+    
+}
 .btns{
     margin: 2rem auto;
 }
